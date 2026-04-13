@@ -42,7 +42,7 @@ The `companyInfo.js` file centralizes all data used by the chatbot, including:
 
 ## 🙋‍♂️ Author
 
-Built with ❤️ by **Islem Ben Ameur**
+Built with by **Islem Ben Ameur**
 
 ---
 
